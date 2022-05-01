@@ -6,7 +6,7 @@
 
 🌱 Currently pursuing B.Tech in Computer Science.
 
-🌱 I am working Game and Backend Development, yes, parallelly 👀.
+🌱 I am working on my Game and Backend Development skills, yes, parallelly 👀.
 
 #### Chekout some of my top-notch projects
 
