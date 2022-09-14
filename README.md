@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vasu Grover
 
-🌐 Visit my website at [vasugrover.in](https://www.vasugrover.in/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/)  |  📝 Read my blogs at [vasugrover.in/blog](https://www.vasugrover.in/blog) |  🥼 Find my projects at [vasugrover.in/projects](https://www.vasugrover.in/projects)
+🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/)  |  📝 Read my blogs at [notcoderguy.com/blog](https://notcoderguy.com/blog) |  🥼 Find my projects at [notcoderguy.com/projects](https://www.vasugrover.in/projects)
 
 #### About Me
 
@@ -8,14 +8,15 @@
 
 🌱 I am working on my Game and Backend Development skills, yes, parallelly 👀.
 
-#### Chekout some of my top-notch projects
+#### Chekout some of my best projects
 
-:computer: **[tegra](https://github.com/notcoderguy/tegra)**, a blog-cum-portfolio on Laravel Framework. Deployed at [www.vasugrover.in](https://www.vasugrover.in/) .
+:computer: **[tegra](https://github.com/notcoderguy/tegra)**, a content management system on Laravel Framework. Deployed at [notcoderguy.com](https://notcoderguy.com/) .
 
 :computer: **[newsondemand](https://github.com/notcoderguy/newsondemand)**, a news API provider. Deployed at [www.newsondemand.in](https://www.newsondemand.in/) .
 
-<!-- 👨🏼‍💻 Currently working on
- -->
+👨🏼‍💻 Currently working on
+ 
+:computer: **[Scout-UI](https://github.com/notcoderguy/Scout-UI)**, a tailwindcss boilerplate which is currently deployed at [tailwind.notcoderguy.com](https://tailwind.notcoderguy.com) .
  
 Check out other projects on my [repositories](https://github.com/notcoderguy?tab=repositories) .
 
