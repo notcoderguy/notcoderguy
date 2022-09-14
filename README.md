@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vasu Grover
 
-🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/)  |  📝 Read my blogs at [notcoderguy.com/blog](https://notcoderguy.com/blog) |  🥼 Find my projects at [notcoderguy.com/projects](https://www.vasugrover.in/projects)
+🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/)  |  📝 Read my blogs at [notcoderguy.com/blog](https://notcoderguy.com/blog) |  🥼 Find my projects at [notcoderguy.com/projects](https://notcoderguy.com/projects)
 
 #### About Me
 
