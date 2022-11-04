@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vasu Grover
 
-🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/)  |  📝 Read my blogs at [notcoderguy.com/blog](https://notcoderguy.com/blog) |  🥼 Find my projects at [notcoderguy.com/projects](https://notcoderguy.com/projects)
+🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/)  |  📝 Read my blogs at [notcoderguy.com/blog](https://blog.notcoderguy.com/) |  🥼 Find my projects at [notcoderguy.com/projects](https://notcoderguy.com/projects)
 
 ### About Me
 
@@ -21,13 +21,16 @@
 
 :computer: **[tegra](https://github.com/notcoderguy/tegra)**, a content management system on Laravel Framework. Deployed at [notcoderguy.com](https://notcoderguy.com/) .
 
-:computer: **[newsondemand](https://github.com/notcoderguy/newsondemand)**, a news API provider. Deployed at [www.newsondemand.in](https://www.newsondemand.in/) .
+:computer: **[newsondemand](https://github.com/notcoderguy/newsondemand)**, a news API provider. Deployed at [newsondemand.in](https://www.newsondemand.in/) .
 
 👨🏼‍💻 Currently working on
  
 :computer: **[Scout-UI](https://github.com/notcoderguy/Scout-UI)**, a tailwindcss boilerplate which is currently deployed at [tailwind.notcoderguy.com](https://tailwind.notcoderguy.com) .
  
 Check out other projects on my [repositories](https://github.com/notcoderguy?tab=repositories) .
+
+### Holopin Badges
+[![@notcoderguy's Holopin board](https://holopin.me/notcoderguy)](https://holopin.io/@notcoderguy)
 
 ### Languages & Skills Known:
 
@@ -81,4 +84,6 @@ Check out other projects on my [repositories](https://github.com/notcoderguy?tab
   <img align="middle" alt="NCGs Github Stats" src="https://github-readme-stats.vercel.app/api?username=notcoderguy&&show_icons=true&theme=dark" width="50%" />
    <br><br>
   <img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcoderguy&layout=compact&theme=dark" width="50%"/>
+  <br><br>
+  <img align="center" alt="Total visits" src="https://count.getloli.com/get/@:notcoderguy?theme=gelbooru" alt=":notcoderguy"  width="50%"/>
 </div>
