@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Vasu Grover
 
-🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/)  |  📝 Read my blogs at [notcoderguy.com/blog](https://blog.notcoderguy.com/) |  🥼 Find my projects at [notcoderguy.com/projects](https://notcoderguy.com/projects)
+🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/) 
+
+<!-- 🥼 Find my projects at [notcoderguy.com/projects](https://notcoderguy.com/projects) -->
 
 ### About Me
 
-🌱 Currently pursuing B.Tech in Computer Science.
-
-🌱 I am working on my Game and Backend Development skills, yes, parallelly 👀.
+🌱 Working as Fullstack Developer at BOSCH.
 
 ### Currently Listening 
 <div align="center">
@@ -19,26 +19,17 @@
 
 ### Chekout some of my best projects
 
-:computer: **[tegra](https://github.com/notcoderguy/tegra)**, a content management system on Laravel Framework. Deployed at [notcoderguy.com](https://notcoderguy.com/) .
-
-:computer: **[newsondemand](https://github.com/notcoderguy/newsondemand)**, a news API provider. Deployed at [newsondemand.in](https://www.newsondemand.in/) .
-
-👨🏼‍💻 Currently working on
+👨🏼‍💻 Currently working on nothing.
  
-:computer: **[Scout-UI](https://github.com/notcoderguy/Scout-UI)**, a tailwindcss boilerplate which is currently deployed at [tailwind.notcoderguy.com](https://tailwind.notcoderguy.com) .
- 
-Check out other projects on my [repositories](https://github.com/notcoderguy?tab=repositories) .
-
-### Holopin Badges
-[![@notcoderguy's Holopin board](https://holopin.me/notcoderguy)](https://holopin.io/@notcoderguy)
+Check out my projects on my [repositories](https://github.com/notcoderguy?tab=repositories) .
 
 ### Languages & Skills Known:
 
 #### Backend & Software Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -54,11 +45,7 @@ Check out other projects on my [repositories](https://github.com/notcoderguy?tab
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 
 #### Designing & Prototyping
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)&nbsp;
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
 
 #### Database Management System
@@ -83,7 +70,7 @@ Check out other projects on my [repositories](https://github.com/notcoderguy?tab
 <div align="center">
   <img align="middle" alt="NCGs Github Stats" src="https://github-readme-stats.vercel.app/api?username=notcoderguy&&show_icons=true&theme=dark" width="50%" />
    <br><br>
-  <img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcoderguy&layout=compact&theme=dark" width="50%"/>
+  <!-- <img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcoderguy&layout=compact&theme=dark" width="50%"/> -->
   <br><br>
   <img align="center" alt="Total visits" src="https://count.getloli.com/get/@:notcoderguy?theme=gelbooru" alt=":notcoderguy"  width="50%"/>
 </div>
