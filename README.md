@@ -1,14 +1,16 @@
-## Hi there 👋 I'm Vasu Grover
+# Hi there 👋 I'm [Vasu Grover](https://notcoderguy.com/)
 
-🌐 Visit my website at [notcoderguy.com](https://notcoderguy.com/)  |  🔍 Find me on LinkedIn at [@notcoderguy](https://www.linkedin.com/in/notcoderguy/) 
+## 🌱 Working as DevOps Integration Engineer at BOSCH
 
-<!-- 🥼 Find my projects at [notcoderguy.com/projects](https://notcoderguy.com/projects) -->
+- 🎓 I've completed my engineering in computer science from SRM.
+- 👨‍ I have only one hobby and that is gulping down knowledge from the internet.
+- ⚽ Goals: Do something that will help the world and make it a better place.
+- 💻 Right now I'm trying to exploring the world of DevOps and Cloud.
+- 📫 How to reach me: [me@notcoderguy.com](mailto:me@notcoderguy.com)
+- ⚡ Fun fact: I'm a huge fan of [Overlord](https://myanimelist.net/anime/29803/Overlord?q=overlord) and [Mushoku Tensei](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu).
 
-### About Me
+### Currently Listening
 
-🌱 Working as Fullstack Developer at BOSCH.
-
-### Currently Listening 
 <div align="center">
   <br>
   <a href="https://open.spotify.com/user/b2almywzip3wagvhei9q0b9u9">
@@ -17,60 +19,68 @@
   <br><br>
 </div>
 
-### Chekout some of my best projects
+### Checkout some of my projects
 
-👨🏼‍💻 Currently working on nothing.
- 
 Check out my projects on my [repositories](https://github.com/notcoderguy?tab=repositories) .
 
-### Languages & Skills Known:
+### My Tech Stack
 
 #### Backend & Software Development
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
 #### Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 
-#### Designing & Prototyping
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwind-css)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=for-the-badge&logo=vite)&nbsp;
 
 #### Database Management System
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=for-the-badge&logo=mariadb)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
 
 #### Game Development
-![Unity 3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
+
+![Unity](https://img.shields.io/badge/unity-%2305122A.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![Godot](https://img.shields.io/badge/godot-%2305122A.svg?style=for-the-badge&logo=godot-engine)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%2305122A.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/blender-%2305122A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
+
+#### DevOps
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=for-the-badge&logo=jenkins)&nbsp;
+![Terrform](https://img.shields.io/badge/-Terrform-05122A?style=for-the-badge&logo=terraform)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=for-the-badge&logo=netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=vercel)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=for-the-badge&logo=digitalocean)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=for-the-badge&logo=nginx)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=for-the-badge&logo=apache)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira)&nbsp;
 
 #### Libraries/Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-05122A?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-05122A.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Django](https://img.shields.io/badge/django-05122A.svg?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 ### Github Stats
 
 <div align="center">
-  <img align="middle" alt="NCGs Github Stats" src="https://github-readme-stats.vercel.app/api?username=notcoderguy&&show_icons=true&theme=dark" width="50%" />
-   <br><br>
-  <!-- <img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcoderguy&layout=compact&theme=dark" width="50%"/> -->
   <br><br>
   <img align="center" alt="Total visits" src="https://count.getloli.com/get/@:notcoderguy?theme=gelbooru" alt=":notcoderguy"  width="50%"/>
 </div>
