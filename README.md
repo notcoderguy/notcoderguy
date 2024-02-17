@@ -14,7 +14,7 @@
 <div align="center">
   <br>
   <a href="https://spotifyx.notcoderguy.com/">
-  <img align="middle" alt="SpotifyX" src="https://api.spotifyx.notcoderguy.com/visualizer?background_color=0d1117&border_color=ffffff" width="50%" />
+  <img align="middle" alt="SpotifyX" src="https://spotifymd.notcoderguy.com/api/spotify?background_color=0d1117&border_color=ffffff" width="50%" />
   </a>
   <br><br>
 </div>
