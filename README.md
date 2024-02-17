@@ -13,8 +13,8 @@
 
 <div align="center">
   <br>
-  <a href="https://open.spotify.com/user/b2almywzip3wagvhei9q0b9u9">
-  <img align="middle" alt="Not Playing" src="https://spotifymd.notcoderguy.com/api/spotify?background_color=0d1117&border_color=ffffff" width="50%" />
+  <a href="https://spotifyx.notcoderguy.com/">
+  <img align="middle" alt="SpotifyX" src="https://api.spotifyx.notcoderguy.com/visualizer?background_color=0d1117&border_color=ffffff" width="50%" />
   </a>
   <br><br>
 </div>
